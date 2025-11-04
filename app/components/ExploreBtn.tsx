@@ -1,6 +1,8 @@
 'use client'
 import Image from "next/image"
 
+// tmkc
+
 const ExploreBtn = () => {
   return (
     <button onClick={()=> console.log('CLICK')} id="explore-btn" className="mt-7 mx-auto">
